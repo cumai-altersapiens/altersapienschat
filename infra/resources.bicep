@@ -24,7 +24,7 @@ param speechServiceSkuName string = 'S0'
 param formRecognizerSkuName string = 'S0'
 
 param searchServiceSkuName string = 'standard'
-param searchServiceIndexName string = 'azure-chat'
+param searchServiceIndexName string = 'altersapiens-chats'
 
 param storageServiceSku object
 param storageServiceImageContainerName string

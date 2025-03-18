@@ -83,7 +83,7 @@
     },
     "chatGptModelVersion": {
       "type": "string",
-      "defaultValue": "2024-05-13"
+      "defaultValue": "2024-11-20"
     },
     "embeddingDeploymentName": {
       "type": "string",
@@ -130,7 +130,7 @@
     },
     "searchServiceIndexName": {
       "type": "string",
-      "defaultValue": "azure-chat"
+      "defaultValue": "altersapiens-chats"
     },
     "searchServiceSkuName": {
       "type": "string",
@@ -329,7 +329,7 @@
             },
             "searchServiceIndexName": {
               "type": "string",
-              "defaultValue": "azure-chat"
+              "defaultValue": "altersapiens-chats"
             },
             "storageServiceSku": {
               "type": "object"
